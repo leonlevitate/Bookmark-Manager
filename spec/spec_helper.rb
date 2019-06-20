@@ -33,6 +33,7 @@ Capybara.app = BookmarkManager
   RSpec.configure do |config|
     config.before(:each) do
       setup_test_database
+      p "cleaning database"
     end
 
 
