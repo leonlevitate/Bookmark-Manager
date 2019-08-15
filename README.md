@@ -1,6 +1,7 @@
 # Bookmark-Manager
 
-## User Stories
+This project allowed me to build a web application and implement a PostgreSQL database. 
+## User Stories / Requirements
 ```
 As a time-pressed user
 So that I can quickly go to web sites I regularly visit
