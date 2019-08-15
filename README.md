@@ -1,6 +1,6 @@
 # Bookmark-Manager
 
-This project allowed me to build a web application and implement a PostgreSQL database. 
+This project allowed me to develop my skills building a web application and implement a PostgreSQL database. 
 ## User Stories / Requirements
 ```
 As a time-pressed user
